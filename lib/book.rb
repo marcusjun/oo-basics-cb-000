@@ -10,8 +10,6 @@ class Book
     #@title
   #end
 
-  #attr_accessor :author
-
   #def author=(author)
     #@author=author
   #end
@@ -20,8 +18,6 @@ class Book
     #@author
   #end
 
-  #attr_accessor :page_count
-
   #def page_count=(num)
     #@page_count=num
   #end
@@ -29,8 +25,6 @@ class Book
   #def page_count
     #@page_count
   #end
-
-  #attr_accessor :genre
 
   #def genre=(genre)
     #@genre=genre
